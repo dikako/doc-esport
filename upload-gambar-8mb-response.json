@@ -1,0 +1,11 @@
+{
+    "details": {
+        "identitas": [
+            "The identitas field size is can not be greater than 8000000 bytes"
+        ],
+        "profil": [
+            "The profil field size is can not be greater than 8000000 bytes"
+        ]
+    },
+    "message": "validation error"
+}
