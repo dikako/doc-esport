@@ -1,0 +1,8 @@
+{
+    "details": {
+        "telepon": [
+            "The telepon field must be minimum 9 char"
+        ]
+    },
+    "message": "validation error"
+}
