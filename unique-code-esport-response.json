@@ -1,0 +1,197 @@
+{
+    "data": [
+        {
+            "id": 21,
+            "created_at": "0001-01-01T00:00:00Z",
+            "update_at": "0001-01-01T00:00:00Z",
+            "question": "\"Chemist's Instinct\" adalah nama dari skill passive yang dimiliki oleh hero ?",
+            "question_type": "choice",
+            "choice_answer": "[\"A. Ling\", \"B. Zhask\", \"C. Kimmy\", \"D. Helcurt\"]",
+            "answer": ""
+        },
+        {
+            "id": 30,
+            "created_at": "0001-01-01T00:00:00Z",
+            "update_at": "0001-01-01T00:00:00Z",
+            "question": "\"Get 10 Gold per 10s. Last 30s. \" adalah efek buff dari ?",
+            "question_type": "choice",
+            "choice_answer": "[\"A. Spinner\", \"B. Snail\", \"C. Spider\", \"D. Crab\"]",
+            "answer": ""
+        },
+        {
+            "id": 13,
+            "created_at": "0001-01-01T00:00:00Z",
+            "update_at": "0001-01-01T00:00:00Z",
+            "question": "\"Lucky Shop\" bisa di temukan pada halaman ?",
+            "question_type": "choice",
+            "choice_answer": "[\"A. Lucky Zodiac\", \"B. Lucky Spin\", \"C. Lucky Draw\", \"D. Preparation Lucky\"]",
+            "answer": ""
+        },
+        {
+            "id": 24,
+            "created_at": "0001-01-01T00:00:00Z",
+            "update_at": "0001-01-01T00:00:00Z",
+            "question": "Apa nama item sepatu dengan effect 10% CD Reduction ?",
+            "question_type": "choice",
+            "choice_answer": "[\"A. Magic Shoes\", \"B. Swift Shoes\", \"C. Arcane Shoes\", \"D. Fast Shoes\"]",
+            "answer": ""
+        },
+        {
+            "id": 26,
+            "created_at": "0001-01-01T00:00:00Z",
+            "update_at": "0001-01-01T00:00:00Z",
+            "question": "Apa nama skill passive dari hero Gussion ?",
+            "question_type": "choice",
+            "choice_answer": "[\"A. Malefic Gunner\", \"B. Malefic Gun\", \"C. Void Projectile\", \"D. Dagger Specialist\"]",
+            "answer": ""
+        },
+        {
+            "id": 15,
+            "created_at": "0001-01-01T00:00:00Z",
+            "update_at": "0001-01-01T00:00:00Z",
+            "question": "Argus adalah salah satu hero dengan role ?",
+            "question_type": "choice",
+            "choice_answer": "[\"A. Tank\", \"B. Fighter\", \"C. Marksman\", \"D. Assassin\"]",
+            "answer": ""
+        },
+        {
+            "id": 23,
+            "created_at": "0001-01-01T00:00:00Z",
+            "update_at": "0001-01-01T00:00:00Z",
+            "question": "Berapa total jumlah emblem yang ada dalam Mobile Legends?",
+            "question_type": "choice",
+            "choice_answer": "[\"A. 7\", \"B. 8\", \"C. 9\", \"D. 10\"]",
+            "answer": ""
+        },
+        {
+            "id": 20,
+            "created_at": "0001-01-01T00:00:00Z",
+            "update_at": "0001-01-01T00:00:00Z",
+            "question": "Berapakah total jumlah Spells yang dapat kamu peroleh?",
+            "question_type": "choice",
+            "choice_answer": "[\"A. 9\", \"B. 10\", \"C. 11\", \"D. 12\"]",
+            "answer": ""
+        },
+        {
+            "id": 32,
+            "created_at": "0001-01-01T00:00:00Z",
+            "update_at": "0001-01-01T00:00:00Z",
+            "question": "Ceritakan alasan kamu mengapa ingin mengikuti Esport Star Indonesia?",
+            "question_type": "essay",
+            "choice_answer": "",
+            "answer": ""
+        },
+        {
+            "id": 22,
+            "created_at": "0001-01-01T00:00:00Z",
+            "update_at": "0001-01-01T00:00:00Z",
+            "question": "Ceritakan alasan kamu mengikuti Esport Star Indonesia?",
+            "question_type": "essay",
+            "choice_answer": "",
+            "answer": ""
+        },
+        {
+            "id": 19,
+            "created_at": "0001-01-01T00:00:00Z",
+            "update_at": "0001-01-01T00:00:00Z",
+            "question": "Efek yang tidak ada di dalam emblem Marksman adalah ?",
+            "question_type": "choice",
+            "choice_answer": "[\"A. Physical Lifesteal\", \"B. HP Regen\", \"C. Crit Chance\", \"D. Physical PEN\"]",
+            "answer": ""
+        },
+        {
+            "id": 18,
+            "created_at": "0001-01-01T00:00:00Z",
+            "update_at": "0001-01-01T00:00:00Z",
+            "question": "Fitur yang menunjukan kalau kamu expert dalam hero tertentu adalah ?",
+            "question_type": "choice",
+            "choice_answer": "[\"A. Mastery Code\", \"B. Pro Code\", \"C. Expert Code\", \"D. Marksman Master\"]",
+            "answer": ""
+        },
+        {
+            "id": 14,
+            "created_at": "0001-01-01T00:00:00Z",
+            "update_at": "0001-01-01T00:00:00Z",
+            "question": "Kapasitas level tertinggi pada \"Emblem\" adalah ?",
+            "question_type": "choice",
+            "choice_answer": "[\"A. 30\", \"B. 40\", \"C. 50\", \"D. 60\"]",
+            "answer": ""
+        },
+        {
+            "id": 17,
+            "created_at": "0001-01-01T00:00:00Z",
+            "update_at": "0001-01-01T00:00:00Z",
+            "question": "Lord akan respawn kembali setiap berapa menit ?",
+            "question_type": "choice",
+            "choice_answer": "[\"A. 3 Menit\", \"B. 4 Menit\", \"C. 5 Menit\", \"D. 6 Menit\"]",
+            "answer": ""
+        },
+        {
+            "id": 31,
+            "created_at": "0001-01-01T00:00:00Z",
+            "update_at": "0001-01-01T00:00:00Z",
+            "question": "Menurut kamu Lane yang paling tepat untuk hero Karrie adalah ?",
+            "question_type": "choice",
+            "choice_answer": "[\"A. Mid lane\", \"B. Side Lanes\", \"C. Jungle\", \"D. Roam\"]",
+            "answer": ""
+        },
+        {
+            "id": 25,
+            "created_at": "0001-01-01T00:00:00Z",
+            "update_at": "0001-01-01T00:00:00Z",
+            "question": "Pada menit berapakah Turtle akan spawn ?",
+            "question_type": "choice",
+            "choice_answer": "[\"A. 2\", \"B. 4\", \"C. 1\", \"D. 3\"]",
+            "answer": ""
+        },
+        {
+            "id": 28,
+            "created_at": "0001-01-01T00:00:00Z",
+            "update_at": "0001-01-01T00:00:00Z",
+            "question": "Pilih hero yang memiliki skin dengan nama \"Rakshes\"",
+            "question_type": "choice",
+            "choice_answer": "[\"A. Hanabi\", \"B. Hilda\", \"C. Silvanna\", \"D. Aurora\"]",
+            "answer": ""
+        },
+        {
+            "id": 27,
+            "created_at": "0001-01-01T00:00:00Z",
+            "update_at": "0001-01-01T00:00:00Z",
+            "question": "Sebutan dari player terbaik dari match adalah ?",
+            "question_type": "choice",
+            "choice_answer": "[\"A. MANIAC\", \"B. PRO PLAYER\", \"C. ULTIMATE PLAYER\", \"D. MOST VALUABLE PLAYER\"]",
+            "answer": ""
+        },
+        {
+            "id": 3,
+            "created_at": "0001-01-01T00:00:00Z",
+            "update_at": "0001-01-01T00:00:00Z",
+            "question": "siapa orang paling ganteng?",
+            "question_type": "choice",
+            "choice_answer": "aaaaa",
+            "answer": ""
+        },
+        {
+            "id": 2,
+            "created_at": "0001-01-01T00:00:00Z",
+            "update_at": "0001-01-01T00:00:00Z",
+            "question": "Siapa namaku?",
+            "question_type": "essay",
+            "choice_answer": "",
+            "answer": ""
+        },
+        {
+            "id": 6,
+            "created_at": "0001-01-01T00:00:00Z",
+            "update_at": "0001-01-01T00:00:00Z",
+            "question": "siapakan Rafi Ahmad",
+            "question_type": "essay",
+            "choice_answer": "",
+            "answer": ""
+        }
+    ],
+    "meta": {
+        "ended_quiz": "2020-04-19T16:45:00+07:00",
+        "started_quiz": "2020-04-16T16:45:00+07:00"
+    }
+}
