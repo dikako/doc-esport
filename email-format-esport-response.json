@@ -1,0 +1,8 @@
+{
+    "details": {
+        "email": [
+            "The email field must be a valid email address"
+        ]
+    },
+    "message": "validation error"
+}
